@@ -1,0 +1,24 @@
+{
+  "name": "vue-hash-router",
+  "version": "1.0.0",
+  "description": "A sweet tiny Vue hash router.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustindowell22/vue-hash-router.git"
+  },
+  "keywords": [
+    "vue",
+    "hash",
+    "router"
+  ],
+  "author": "Dustin Dowell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dustindowell22/vue-hash-router/issues"
+  },
+  "homepage": "https://github.com/dustindowell22/vue-hash-router#readme"
+}
