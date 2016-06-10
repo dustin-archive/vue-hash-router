@@ -3,11 +3,11 @@ var hashRouter = {
     hash: '#home'
   },
   methods: {
-    route(hash) {
+    route: function (hash) {
       this.hash = hash || window.location.hash || this.hash
     }
   },
-  ready() {
+  ready: function () {
     var $vue = this
 
     $vue.route()
