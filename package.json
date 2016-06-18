@@ -21,7 +21,7 @@
     "url": "https://github.com/dustindowell22/vue-hash-router/issues"
   },
   "homepage": "https://github.com/dustindowell22/vue-hash-router#readme",
-  "peerDependencies": {
-    "vue": "^1.0.24"
+  "devDependencies": {
+    "vue": "^1.0.25"
   }
 }
