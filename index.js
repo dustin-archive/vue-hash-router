@@ -8,12 +8,12 @@ var hashRouter = {
     }
   },
   ready: function () {
-    var $vue = this
+    var that = this
 
-    $vue.route()
+    that.route()
 
     window.addEventListener('hashchange', function () {
-      $vue.route()
+      that.route()
     })
   }
 }
