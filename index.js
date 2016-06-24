@@ -7,7 +7,7 @@ var hashRouter = {
       this.hash = hash || window.location.hash || this.hash
     }
   },
-  ready: function () {
+  mount: function () {
     var that = this
 
     that.route()
