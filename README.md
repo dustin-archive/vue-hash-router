@@ -1,2 +1,2 @@
 # vue-hash-router
-A sweet tiny Vue hash router.
+Sweet tiny Vue hash router
