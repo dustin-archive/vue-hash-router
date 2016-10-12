@@ -1,4 +1,4 @@
-var hashRouter = {
+module.exports = {
   data: {
     hash: '#home'
   },
@@ -7,7 +7,7 @@ var hashRouter = {
       this.hash = hash || window.location.hash || this.hash
     }
   },
-  mount: function () {
+  mounted: function () {
     var that = this
 
     that.route()
@@ -17,5 +17,3 @@ var hashRouter = {
     })
   }
 }
-
-module.exports = hashRouter
