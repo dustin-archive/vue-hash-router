@@ -1,6 +1,6 @@
 {
   "name": "vue-hash-router",
-  "version": "2.1.0",
+  "version": "2.0.0",
   "description": "Sweet tiny Vue hash router",
   "main": "index.js",
   "scripts": {
